@@ -1,0 +1,11 @@
+# Local credentials, datasets, model weights, caches and outputs
+.env
+.env.local
+.env.*.local
+!*.example
+data/
+runs/
+__pycache__/
+*.py[cod]
+.venv/
+
